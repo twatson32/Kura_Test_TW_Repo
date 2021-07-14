@@ -7,6 +7,7 @@
 
 1. Cat 
 2. Dog 
-3. Elephant 
+3. **Elephant**
 - Fish 
 - Lizard
+- Monkey
