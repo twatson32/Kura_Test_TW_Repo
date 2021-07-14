@@ -1,7 +1,7 @@
 # Kura_Test_TW_Repo
 
 ![Elephant](https://d.newsweek.com/en/full/1787915/elephant.jpg)
-**I wish I was in Ghana**
+**I wish I was in Ghana right now**
 
 ### this is smaller than the single# because it is header 3
 
