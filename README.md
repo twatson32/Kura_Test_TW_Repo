@@ -3,7 +3,7 @@
 ![Elephant](https://d.newsweek.com/en/full/1787915/elephant.jpg)
 **I wish I was in Ghana**
 
-### testing to see what this does 
+### this is smaller than the single# because it is header 3
 
 1. Cat 
 2. Dog 
